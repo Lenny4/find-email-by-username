@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net=api.github.com --allow-read --allow-write --allow-import --allow-run --watch main.ts"
+  }
+}
